@@ -40,8 +40,19 @@ body{
 .person_description{
     line-height: 22px;
     font-size: 16px;
+    margin: 0;
 }
 .special {
     color:#ED6D05;
     font-weight: normal;
+}
+.person_link{
+    color: #E20613;
+    text-decoration: none;
+}
+.person_info{
+    margin-bottom: 24px;
+}
+.person_description--with--maring{
+    margin-bottom: 22px;
 }
